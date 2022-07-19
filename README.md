@@ -1,4 +1,3 @@
 # stellabot
 
-completely useless and elaborate prank against my friends
-prank still running to this day on Google Cloud
+completely useless and elaborate prank against my friends, still running to this day on Google Cloud
